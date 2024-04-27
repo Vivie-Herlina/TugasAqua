@@ -25,7 +25,7 @@ public class loginregis extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void login(View v) {
+    public void loginn(View v) {
         Intent intent = new Intent (loginregis.this, login.class);
         startActivity(intent);
     }
